@@ -1,0 +1,5 @@
+{
+  "$schema": "https://json.schemastore.org/wrangler.json",
+  "name": "kv-shepherd-io",
+  "pages_build_output_dir": "./"
+}
