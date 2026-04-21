@@ -24,7 +24,7 @@ When `go get kv-shepherd.io/shepherd` is called:
 
 | File | Purpose |
 |------|--------|
-| `index.html` | Root domain, redirects to GitHub org |
+| `index.html` | Root domain, redirects to `https://www.kv-shepherd.io` |
 | `shepherd/index.html` | Vanity import for `kv-shepherd.io/shepherd` |
 
 ## Deployment
